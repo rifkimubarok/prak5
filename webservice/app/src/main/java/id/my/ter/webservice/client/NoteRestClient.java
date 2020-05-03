@@ -10,7 +10,7 @@ import cz.msebera.android.httpclient.Header;
 
 public class NoteRestClient {
 
-    private static final String BASE_URL = "http://192.168.141.103:5000/";
+    private static final String BASE_URL = "http://192.168.141.101:5000/";
 
     private static AsyncHttpClient client = new AsyncHttpClient();
 
