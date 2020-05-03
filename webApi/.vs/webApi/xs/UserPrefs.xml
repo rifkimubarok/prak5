@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.ItemProperties.webApi PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="webApi/Properties/launchSettings.json">
     <Files>
-      <File FileName="webApi/Properties/launchSettings.json" Line="27" Column="75" />
-      <File FileName="webApi/Repositories/NoteRepository.cs" Line="1" Column="1" />
-      <File FileName="webApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="webApi/Properties/launchSettings.json" Line="30" Column="2" />
+      <File FileName="webApi/Repositories/NoteRepository.cs" />
+      <File FileName="webApi/appsettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

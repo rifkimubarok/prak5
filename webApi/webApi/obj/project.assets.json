@@ -227,11 +227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rifkimubarok/Projects/webApi/webApi/webApi.csproj",
+      "projectUniqueName": "/Users/rifkimubarok/Documents/AndroidProject/Praktikum5/webApi/webApi/webApi.csproj",
       "projectName": "webApi",
-      "projectPath": "/Users/rifkimubarok/Projects/webApi/webApi/webApi.csproj",
+      "projectPath": "/Users/rifkimubarok/Documents/AndroidProject/Praktikum5/webApi/webApi/webApi.csproj",
       "packagesPath": "/Users/rifkimubarok/.nuget/packages/",
-      "outputPath": "/Users/rifkimubarok/Projects/webApi/webApi/obj/",
+      "outputPath": "/Users/rifkimubarok/Documents/AndroidProject/Praktikum5/webApi/webApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rifkimubarok/.config/NuGet/NuGet.Config"
