@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">webService</string>
+    <string name="label_note_id">Note Id</string>
+    <string name="label_note_title">Note Title</string>
+</resources>
